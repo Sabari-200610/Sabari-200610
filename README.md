@@ -1,22 +1,18 @@
-<h1 align="center">Hi, I'm Sabari Vasan 👋</h1>
+# 💫 About Me:
+- B.Tech Information Technology student focused on building strong foundations in software engineering and computer science.<br>- Aspiring Software Engineer with interests in Full-Stack Development, AI/ML, IoT, and Cloud Computing.<br>- Proficient in Java, MySQL, HTML, and currently expanding skills in Python, Data Structures & Algorithms, and modern development tools.<br>- Experienced in developing practical projects involving AI-powered applications, IoT systems, embedded devices, and web technologies.<br>- Continuously improving problem-solving and development skills through DSA practice, technical projects, and hands-on experimentation.<br>- Passionate about turning real-world problems into scalable, reliable, and technology-driven solutions.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Third-year+IT+Student;Full-Stack+%7C+IoT+%7C+Embedded+%7C+AI%2FML;Building+LoRa+%26+IoT+projects" alt="Typing SVG" />
-</p>
 
-## 🎓 About
-- Third-year Information Technology student at V.S.B. Engineering College, Dindigul
-- Interested in software and hardware: full-stack web, embedded systems, IoT, LoRa, AI/ML
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabarivasan57) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssv200610@gmail.com) 
 
-## 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,html,css,mysql,arduino,git,github" />
-</p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Sabari-200610&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Sabari-200610&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sabari-200610&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📊 GitHub Stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sabari-200610&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=Sabari-200610&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📫 Connect
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_ID)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
