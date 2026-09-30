@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Heisenberg 👋</h1>
+<h1 align="center">Hi, I'm Sabari Vasan 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Third-year+IT+Student;Full-Stack+%7C+IoT+%7C+Embedded+%7C+AI%2FML;Building+LoRa+%26+IoT+projects" alt="Typing SVG" />
