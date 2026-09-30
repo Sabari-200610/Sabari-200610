@@ -14,8 +14,6 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Information Technology (2024 - 2028) at **V.S.B. Engineering College, Karur**, CGPA **8.01**
-- 💼 AI Web Development Intern at **InAmigos Foundation**
 - B.Tech Information Technology student focused on building strong foundations in software engineering and computer science.
 - Aspiring Software Engineer with interests in Full-Stack Development, AI/ML, IoT, and Cloud Computing.
 - Proficient in Java, MySQL, HTML, and currently expanding skills in Python, Data Structures & Algorithms, and modern development tools.
