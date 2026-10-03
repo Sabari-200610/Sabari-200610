@@ -51,7 +51,7 @@
         <li>Interactive 3D platform to explore 35+ objects with exploded, inspectable parts</li>
         <li>Claude API explanations via a Node.js/Express backend, plus quiz mode</li>
       </ul>
-      <a href="https://github.com/Sabari-200610/REPO_NAME">🔗 View Repository</a>
+      <a href="https://github.com/Sabari-200610/3D-Visualizer">🔗 View Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>🩺 AI Public Health Chatbot</h3>
@@ -60,7 +60,7 @@
         <li>AI chatbot for disease, symptom, and prevention information</li>
         <li>User authentication, chat history, and dark/light mode</li>
       </ul>
-      <a href="https://github.com/Sabari-200610/REPO_NAME">🔗 View Repository</a>
+      <a href="https://github.com/Sabari-200610/AI-Driven-Public-Health-Chatbot">🔗 View Repository</a>
     </td>
   </tr>
 </table>
